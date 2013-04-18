@@ -1,4 +1,4 @@
-def scheme():
+def scheme(paramater):
     print "added a line"
     return 1*2
     print "VAISHAAAAAAAAL"
