@@ -1,5 +1,6 @@
 def scheme():
     return 1*2
+    print "VAISHAAAAAAAAL"
 
 def mark():
     print "HI"
