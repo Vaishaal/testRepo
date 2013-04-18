@@ -3,3 +3,6 @@ def scheme():
 
 def hi():
     return "bye"
+
+def poop():
+    print "POOOO"
